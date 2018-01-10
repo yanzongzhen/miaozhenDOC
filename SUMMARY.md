@@ -5,7 +5,7 @@
   * [MZBoard102](chan-pin-jie-shao/mzboard102.md)
   * [MZBoard202](chan-pin-jie-shao/mzboard202.md)
   * [OTTO\_Muilt](chan-pin-jie-shao/ottomuilt.md)
-* [技术文档](ji-zhu-wen-dang.md)
+* [秒针产品技术文档](ji-zhu-wen-dang.md)
 * [Mcropython技术支持文档](mcropythonji-zhu-zhi-chi-wen-dang.md)
-* MicroPython许可证信息
+* [MicroPython许可证信息](micropythonxu-ke-zheng-xin-xi.md)
 
