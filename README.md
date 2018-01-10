@@ -1,4 +1,8 @@
 # MZBoard101 介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+MZBoard101是一款由山东秒针智能科技有限公司（以下内容简称“秒针”）出品
+
+
 
