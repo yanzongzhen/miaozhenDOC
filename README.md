@@ -4,11 +4,9 @@
 
 # 秒针产品介绍
 
-### **秒针micropython智能开发板（esp8266）--- 代号 ：MZBoard202**
-
-### **秒针micropython智能开发板（stm32f4）--- 代号 ：MZBoard101**
-
-### 多功能可编程OTTO机器人
+1. **秒针micropython智能开发板（esp8266）--- 代号 ：MZBoard202**
+2. **秒针micropython智能开发板（stm32f4）--- 代号 ：MZBoard101**
+3. **多功能可编程OTTO机器人**
 
 #### 
 
